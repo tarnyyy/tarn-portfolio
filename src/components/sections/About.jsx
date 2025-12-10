@@ -74,14 +74,14 @@ export const About = () => {
                         <div className="space-y-4 text-gray-300">
                             <div>
                                 <p className="font-medium">
-                                    Java  
+                                    {/* Java   */}
                                     {/* <span className="text-sm text-gray-400">— ABC Corp (2027 - Present)</span> */}
                                 </p>
                                 {/* <p className="text-sm text-gray-400">Building and maintaining modern web applications.</p> */}
                             </div>
                             <div>
                                 <p className="font-medium">
-                                    Database  
+                                    {/* Database   */}
                                     {/* <span className="text-sm text-gray-400">— Startup Corp (2019)</span> */}
                                 </p>
                                 {/* <p className="text-sm text-gray-400">Assisted in frontend development and testing.</p> */}
